@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 167,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ReachLink Staging Backend",
-    "url": "https://reachlink-backend-staging.herokuapp.com",
-    "icon": "https://icons.duckduckgo.com/ip3/reachlink-backend-staging.herokuapp.com.ico",
-    "slug": "reach-link-staging-backend",
-    "status": "down",
-    "uptime": "4.21%",
-    "uptimeDay": "4.21%",
-    "uptimeWeek": "4.21%",
-    "uptimeMonth": "4.21%",
-    "uptimeYear": "4.21%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
-    "dailyMinutesDown": {
-      "2025-12-06": 0
-    }
   },
   {
     "name": "ReachLink Dev",
@@ -48,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ReachLink Dev Backend",
-    "url": "https://reachlink-backend-dev-96519c75ba4f.herokuapp.com",
-    "icon": "https://icons.duckduckgo.com/ip3/reachlink-backend-dev-96519c75ba4f.herokuapp.com.ico",
-    "slug": "reach-link-dev-backend",
-    "status": "down",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
-    "dailyMinutesDown": {
-      "2025-12-06": 0
-    }
   }
 ]
