@@ -5,12 +5,8 @@ repo: legendary-fortnight # The name of this repository
 sites:
   - name: ReachLink Staging
     url: https://staging.reachlink.com
-  - name: ReachLink Staging Backend
-    url: https://reachlink-backend-staging.herokuapp.com
   - name: ReachLink Dev
     url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com/main/dashboard
-  - name: ReachLink Dev Backend
-    url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
