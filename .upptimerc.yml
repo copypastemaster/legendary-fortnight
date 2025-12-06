@@ -17,7 +17,7 @@ status-website:
   baseUrl: /legendary-fortnight
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ReachLink System Status
-  introTitle: "**Test ReachLink Status** System health check" 
+  introTitle: "**ReachLink System Health**" 
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/copypastemaster/legendary-fortnight). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
