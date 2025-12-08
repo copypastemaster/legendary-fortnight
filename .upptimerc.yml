@@ -14,9 +14,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: staging.reachlink.com
-  faviconSvg: ./assets/favicon.svg
+  faviconSvg: https://raw.githubusercontent.com/reachlink/reachlink-frontend/public/favicon/Reachlink_Favicon.svg
   baseUrl: /legendary-fortnight
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/reachlink/reachlink-frontend/public/favicon/Reachlink_Favicon.svg
   name: ReachLink System Status
   introTitle: "**ReachLink System Health**" 
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/copypastemaster/legendary-fortnight). No server required — just GitHub Actions, Issues, and Pages.
