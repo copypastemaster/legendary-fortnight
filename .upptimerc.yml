@@ -10,11 +10,11 @@ sites:
   - name: ReachLink Dev Frontend
     url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com/main/dashboard
   - name: ReachLink Staging Backend
-    url: https://reachlink-staging-backend.herokuapp.com/api/rest/health
+    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
   - name: ReachLink Dev Backend
     url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health
   - name: Staging redis
-    url: https://reachlink-staging-backend.herokuapp.com/api/rest/health/redis
+    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health/redis
   - name: Dev redis
     url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health/redis
 
