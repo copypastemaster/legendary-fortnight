@@ -1,7 +1,7 @@
 url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health/redis
 status: up
 code: 200
-responseTime: 54
-lastUpdated: 2025-12-13T03:30:12.333Z
+responseTime: 73
+lastUpdated: 2025-12-13T23:17:39.125Z
 startTime: 2025-12-13T03:25:08.311Z
 generator: Upptime <https://github.com/upptime/upptime>
