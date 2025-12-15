@@ -1,7 +1,7 @@
-url: https://api.reachlink.com/api/rest/health/redis
+url: $PROD_HEALTH_REDIS
 status: up
 code: 200
-responseTime: 667
-lastUpdated: 2025-12-15T14:09:59.467Z
+responseTime: 309
+lastUpdated: 2025-12-15T14:19:24.814Z
 startTime: 2025-12-15T13:13:21.779Z
 generator: Upptime <https://github.com/upptime/upptime>
