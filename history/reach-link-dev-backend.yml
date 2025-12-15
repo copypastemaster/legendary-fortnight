@@ -1,7 +1,7 @@
-url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health
+url: $DEV_HEALTH_ENDPOINT
 status: up
 code: 200
-responseTime: 122
-lastUpdated: 2025-12-15T14:09:58.616Z
+responseTime: 254
+lastUpdated: 2025-12-15T14:19:24.344Z
 startTime: 2025-12-13T03:25:05.237Z
 generator: Upptime <https://github.com/upptime/upptime>
