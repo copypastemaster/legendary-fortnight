@@ -9,12 +9,16 @@ sites:
     url: https://staging.reachlink.com
   - name: ReachLink Dev Frontend
     url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com/main/dashboard
+  - name: ReachLink Production Backend
+    url: app.reachlink.com/api/rest/health 
   - name: ReachLink Staging Backend
     url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
   - name: ReachLink Dev Backend
     url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health
+  - name: Production redis
+    url: https://app.reachlink.com/api/rest/health/redis
   - name: Staging redis
-    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health/redis
+    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
   - name: Dev redis
     url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health/redis
 
@@ -25,9 +29,9 @@ status-website:
   # faviconSvg: https://raw.githubusercontent.com/reachlink/reachlink-frontend/public/favicon/Reachlink_Favicon.svg
   baseUrl: /legendary-fortnight
   # logoUrl: https://raw.githubusercontent.com/reachlink/reachlink-frontend/public/favicon/Reachlink_Favicon.svg
-  name: ReachLink System Statusz
+  name: ReachLink Health
   introTitle: "**ReachLink System Health**" 
-  introMessage: This is a sample status page which uses **real-time** data from our repo. No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: ReachLink monitoring for backend, frontend, and redis services.
   navbar:
     - title: Status
       href: /legendary-fortnight
