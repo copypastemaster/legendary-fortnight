@@ -21,6 +21,8 @@ sites:
     url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
   - name: Dev redis
     url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health/redis
+  - name: Test Website
+    url: $TEST_SECRET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
