@@ -10,19 +10,17 @@ sites:
   - name: ReachLink Dev Frontend
     url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com
   - name: ReachLink Production Backend
-    url: https://api.reachlink.com/api/rest/health 
+    url: $PROD_HEALTH_ENDPOINT
   - name: ReachLink Staging Backend
-    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
+    url: $STAGING_HEALTH_ENDPOINT
   - name: ReachLink Dev Backend
-    url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health
+    url: $DEV_HEALTH_ENDPOINT
   - name: Production redis
-    url: https://api.reachlink.com/api/rest/health/redis
+    url: $PROD_HEALTH_REDIS
   - name: Staging redis
-    url: https://reachlink-backend-staging.herokuapp.com/api/rest/health
+    url: $STAGING_HEALTH_REDIS
   - name: Dev redis
-    url: https://reachlink-backend-dev-96519c75ba4f.herokuapp.com/api/rest/health/redis
-  - name: Test Website
-    url: $TEST_SECRET
+    url: $DEV_HEALTH_REDIS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
