@@ -8,7 +8,7 @@ sites:
   - name: ReachLink Staging Frontend
     url: https://staging.reachlink.com
   - name: ReachLink Dev Frontend
-    url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com/main/dashboard
+    url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapps.com/main/dashboard
   - name: ReachLink Production Backend
     url: https://api.reachlink.com/api/rest/health 
   - name: ReachLink Staging Backend
