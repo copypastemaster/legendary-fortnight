@@ -3,18 +3,23 @@ owner: copypastemaster # Your GitHub organization or username, where this reposi
 repo: legendary-fortnight # The name of this repository
 
 sites:
+    #  Frontend
   - name: ReachLink Production Frontend
     url: https://app1.reachlink.com
   - name: ReachLink Staging Frontend
     url: https://staging.reachlink.com
   - name: ReachLink Dev Frontend
     url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com
+
+    #  Backend
   - name: ReachLink Production Backend
     url: $PROD_HEALTH_ENDPOINT
   - name: ReachLink Staging Backend
     url: $STAGING_HEALTH_ENDPOINT
   - name: ReachLink Dev Backend
     url: $DEV_HEALTH_ENDPOINT
+
+    #  Redis
   - name: Production redis
     url: $PROD_HEALTH_REDIS
   - name: Staging redis
