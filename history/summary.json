@@ -96,18 +96,19 @@
     "url": "$DEV_HEALTH_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reach-link-dev-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 171,
-    "timeDay": 126,
-    "timeWeek": 128,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 297,
+    "timeDay": 2094,
+    "timeWeek": 620,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
+      "2026-01-01": 0,
       "2025-12-06": 14
     }
   },
@@ -152,17 +153,19 @@
     "url": "$DEV_HEALTH_REDIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-redis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 25,
-    "timeWeek": 28,
-    "timeMonth": 37,
-    "timeYear": 37,
-    "dailyMinutesDown": {}
+    "time": 170,
+    "timeDay": 2017,
+    "timeWeek": 526,
+    "timeMonth": 170,
+    "timeYear": 170,
+    "dailyMinutesDown": {
+      "2026-01-01": 0
+    }
   }
 ]
