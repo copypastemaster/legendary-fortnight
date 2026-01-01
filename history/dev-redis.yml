@@ -1,7 +1,7 @@
 url: $DEV_HEALTH_REDIS
-status: up
-code: 200
-responseTime: 25
-lastUpdated: 2025-12-31T23:19:12.015Z
+status: down
+code: 503
+responseTime: 4009
+lastUpdated: 2026-01-01T21:38:35.726Z
 startTime: 2025-12-13T03:25:08.311Z
 generator: Upptime <https://github.com/upptime/upptime>
