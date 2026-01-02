@@ -58,18 +58,20 @@
     "url": "$PROD_HEALTH_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reach-link-production-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 131,
-    "timeWeek": 209,
-    "timeMonth": 283,
-    "timeYear": 283,
-    "dailyMinutesDown": {}
+    "time": 439,
+    "timeDay": 2153,
+    "timeWeek": 705,
+    "timeMonth": 439,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2026-01-02": 0
+    }
   },
   {
     "name": "ReachLink Staging Backend",
@@ -118,18 +120,20 @@
     "url": "$PROD_HEALTH_REDIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "production-redis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 10,
-    "timeWeek": 36,
-    "timeMonth": 88,
-    "timeYear": 88,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 2018,
+    "timeWeek": 535,
+    "timeMonth": 240,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2026-01-02": 0
+    }
   },
   {
     "name": "Staging redis",
