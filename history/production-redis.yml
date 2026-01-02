@@ -1,7 +1,7 @@
 url: $PROD_HEALTH_REDIS
 status: up
 code: 200
-responseTime: 10734
-lastUpdated: 2026-01-02T17:01:03.406Z
+responseTime: 75
+lastUpdated: 2026-01-02T23:18:30.170Z
 startTime: 2025-12-15T13:13:21.779Z
 generator: Upptime <https://github.com/upptime/upptime>
