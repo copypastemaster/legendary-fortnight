@@ -27,21 +27,19 @@ sites:
   - name: Dev redis
     url: $DEV_HEALTH_REDIS
 
-    # Bots prod
+    # Journalbot
   - name: ReachLink Journalbot Production
     url: $PROD_HEALTH_JOURNALBOT
-  - name: ReachLink Carebot Production
-    url: $PROD_HEALTH_CAREBOT
-
-    # Bots staging
   - name: ReachLink Journalbot Staging
     url: $STAGING_HEALTH_JOURNALBOT
-  - name: ReachLink Carebot Staging
-    url: $STAGING_HEALTH_CAREBOT
-
-    # Bots dev
   - name: ReachLink Journalbot Dev
     url: $DEV_HEALTH_JOURNALBOT
+
+    # Carebot
+  - name: ReachLink Carebot Production
+    url: $PROD_HEALTH_CAREBOT
+  - name: ReachLink Carebot Staging
+    url: $STAGING_HEALTH_CAREBOT
   - name: ReachLink Carebot Dev
     url: $DEV_HEALTH_CAREBOT
 
