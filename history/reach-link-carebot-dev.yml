@@ -1,7 +1,7 @@
-url: https://fasdfjkgadksljgkalsdjgkalsdsdf.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-12T17:50:20.652Z
+url: $DEV_HEALTH_CAREBOT
+status: up
+code: 200
+responseTime: 37
+lastUpdated: 2026-01-12T18:06:01.186Z
 startTime: 2026-01-05T17:30:31.181Z
 generator: Upptime <https://github.com/upptime/upptime>
