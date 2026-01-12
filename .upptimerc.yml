@@ -41,8 +41,7 @@ sites:
   - name: ReachLink Carebot Staging
     url: $STAGING_HEALTH_CAREBOT
   - name: ReachLink Carebot Dev
-    # url: $DEV_HEALTH_CAREBOT
-    url: https://fasdfjkgadksljgkalsdjgkalsdsdf.com/
+    url: $DEV_HEALTH_CAREBOT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
