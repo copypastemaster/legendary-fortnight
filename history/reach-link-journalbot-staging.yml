@@ -1,7 +1,7 @@
 url: $STAGING_HEALTH_JOURNALBOT
-status: up
-code: 200
-responseTime: 76
-lastUpdated: 2026-01-12T23:16:30.626Z
+status: down
+code: 503
+responseTime: 4055
+lastUpdated: 2026-01-13T17:19:08.916Z
 startTime: 2026-01-05T17:30:07.641Z
 generator: Upptime <https://github.com/upptime/upptime>
