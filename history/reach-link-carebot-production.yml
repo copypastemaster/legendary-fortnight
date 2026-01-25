@@ -1,7 +1,7 @@
 url: $PROD_HEALTH_CAREBOT
 status: up
 code: 200
-responseTime: 76
-lastUpdated: 2026-01-24T23:19:06.191Z
+responseTime: 10
+lastUpdated: 2026-01-25T23:19:49.432Z
 startTime: 2026-01-05T17:30:05.600Z
 generator: Upptime <https://github.com/upptime/upptime>
