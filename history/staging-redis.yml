@@ -1,7 +1,7 @@
 url: $STAGING_HEALTH_REDIS
 status: up
 code: 200
-responseTime: 11
-lastUpdated: 2026-01-28T23:25:48.117Z
+responseTime: 9
+lastUpdated: 2026-01-29T23:25:59.062Z
 startTime: 2025-12-13T03:25:05.842Z
 generator: Upptime <https://github.com/upptime/upptime>
