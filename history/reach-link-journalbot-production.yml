@@ -1,7 +1,7 @@
 url: $PROD_HEALTH_JOURNALBOT
 status: up
 code: 200
-responseTime: 10
-lastUpdated: 2026-02-05T23:22:13.717Z
+responseTime: 90
+lastUpdated: 2026-02-06T23:25:18.692Z
 startTime: 2026-01-05T17:30:03.390Z
 generator: Upptime <https://github.com/upptime/upptime>
