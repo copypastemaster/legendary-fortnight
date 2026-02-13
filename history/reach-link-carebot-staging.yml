@@ -1,7 +1,7 @@
 url: $STAGING_HEALTH_CAREBOT
 status: up
 code: 200
-responseTime: 73
-lastUpdated: 2026-02-12T23:28:13.629Z
+responseTime: 24
+lastUpdated: 2026-02-13T23:29:41.127Z
 startTime: 2026-01-05T17:30:08.192Z
 generator: Upptime <https://github.com/upptime/upptime>
