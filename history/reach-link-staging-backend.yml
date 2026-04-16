@@ -1,7 +1,7 @@
 url: $STAGING_HEALTH_ENDPOINT
 status: up
 code: 200
-responseTime: 247
-lastUpdated: 2026-04-15T23:40:29.691Z
+responseTime: 65
+lastUpdated: 2026-04-16T23:39:33.703Z
 startTime: 2025-12-13T03:25:02.734Z
 generator: Upptime <https://github.com/upptime/upptime>
