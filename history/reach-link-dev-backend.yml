@@ -1,7 +1,7 @@
 url: $DEV_HEALTH_ENDPOINT
 status: up
 code: 200
-responseTime: 241
-lastUpdated: 2026-06-12T00:18:13.068Z
+responseTime: 129
+lastUpdated: 2026-06-13T00:19:15.392Z
 startTime: 2025-12-13T03:25:05.237Z
 generator: Upptime <https://github.com/upptime/upptime>
