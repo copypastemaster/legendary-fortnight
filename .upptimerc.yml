@@ -9,7 +9,7 @@ sites:
   - name: ReachLink Staging Frontend
     url: https://staging.reachlink.com
   - name: ReachLink Dev Frontend
-    url: https://reachlink-frontend-dev-c13e719bdbb8.herokuapp.com
+    url: https://dev.reachlink.com
 
     #  Backend
   - name: ReachLink Production Backend
