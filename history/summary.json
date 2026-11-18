@@ -22,18 +22,20 @@
     "url": "https://staging.reachlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.reachlink.com.ico",
     "slug": "reach-link-staging-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2026-11-18": 4
+    }
   },
   {
     "name": "ReachLink Dev Frontend",
