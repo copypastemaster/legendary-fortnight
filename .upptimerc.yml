@@ -2,6 +2,25 @@
 owner: copypastemaster # Your GitHub organization or username, where this repository lives
 repo: legendary-fortnight # The name of this repository
 
+# Only these secrets are passed to the monitor (GH_PAT is passed separately).
+secrets:
+  - PROD_HEALTH_ENDPOINT
+  - STAGING_HEALTH_ENDPOINT
+  - DEV_HEALTH_ENDPOINT
+  - PROD_HEALTH_REDIS
+  - STAGING_HEALTH_REDIS
+  - DEV_HEALTH_REDIS
+  - PROD_HEALTH_JOURNALBOT
+  - STAGING_HEALTH_JOURNALBOT
+  - DEV_HEALTH_JOURNALBOT
+  - PROD_HEALTH_CAREBOT
+  - STAGING_HEALTH_CAREBOT
+  - DEV_HEALTH_CAREBOT
+  - NOTIFICATION_SLACK
+  - NOTIFICATION_SLACK_WEBHOOK_URL
+  - NOTIFICATION_CUSTOM_WEBHOOK
+  - NOTIFICATION_CUSTOM_WEBHOOK_URL
+
 sites:
     #  Frontend
   - name: ReachLink Production Frontend
